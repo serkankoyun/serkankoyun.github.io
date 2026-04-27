@@ -1,5 +1,3 @@
 title: Serkan'ın Notları
 description: Technotes
-remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: "jekyll/minima@1e8a445"
